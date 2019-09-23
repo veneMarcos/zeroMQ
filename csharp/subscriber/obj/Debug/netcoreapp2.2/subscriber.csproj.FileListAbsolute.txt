@@ -1,0 +1,11 @@
+/Users/venemarcos/Projects/zeroMQ/csharp/subscriber/bin/Debug/netcoreapp2.2/subscriber.deps.json
+/Users/venemarcos/Projects/zeroMQ/csharp/subscriber/bin/Debug/netcoreapp2.2/subscriber.runtimeconfig.json
+/Users/venemarcos/Projects/zeroMQ/csharp/subscriber/bin/Debug/netcoreapp2.2/subscriber.runtimeconfig.dev.json
+/Users/venemarcos/Projects/zeroMQ/csharp/subscriber/bin/Debug/netcoreapp2.2/subscriber.dll
+/Users/venemarcos/Projects/zeroMQ/csharp/subscriber/bin/Debug/netcoreapp2.2/subscriber.pdb
+/Users/venemarcos/Projects/zeroMQ/csharp/subscriber/obj/Debug/netcoreapp2.2/subscriber.csprojAssemblyReference.cache
+/Users/venemarcos/Projects/zeroMQ/csharp/subscriber/obj/Debug/netcoreapp2.2/subscriber.csproj.CoreCompileInputs.cache
+/Users/venemarcos/Projects/zeroMQ/csharp/subscriber/obj/Debug/netcoreapp2.2/subscriber.AssemblyInfoInputs.cache
+/Users/venemarcos/Projects/zeroMQ/csharp/subscriber/obj/Debug/netcoreapp2.2/subscriber.AssemblyInfo.cs
+/Users/venemarcos/Projects/zeroMQ/csharp/subscriber/obj/Debug/netcoreapp2.2/subscriber.dll
+/Users/venemarcos/Projects/zeroMQ/csharp/subscriber/obj/Debug/netcoreapp2.2/subscriber.pdb

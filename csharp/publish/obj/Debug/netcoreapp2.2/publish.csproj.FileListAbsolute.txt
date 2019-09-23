@@ -1,0 +1,11 @@
+/Users/venemarcos/Projects/zeroMQ/csharp/publish/bin/Debug/netcoreapp2.2/publish.deps.json
+/Users/venemarcos/Projects/zeroMQ/csharp/publish/bin/Debug/netcoreapp2.2/publish.runtimeconfig.json
+/Users/venemarcos/Projects/zeroMQ/csharp/publish/bin/Debug/netcoreapp2.2/publish.runtimeconfig.dev.json
+/Users/venemarcos/Projects/zeroMQ/csharp/publish/bin/Debug/netcoreapp2.2/publish.dll
+/Users/venemarcos/Projects/zeroMQ/csharp/publish/bin/Debug/netcoreapp2.2/publish.pdb
+/Users/venemarcos/Projects/zeroMQ/csharp/publish/obj/Debug/netcoreapp2.2/publish.csprojAssemblyReference.cache
+/Users/venemarcos/Projects/zeroMQ/csharp/publish/obj/Debug/netcoreapp2.2/publish.csproj.CoreCompileInputs.cache
+/Users/venemarcos/Projects/zeroMQ/csharp/publish/obj/Debug/netcoreapp2.2/publish.AssemblyInfoInputs.cache
+/Users/venemarcos/Projects/zeroMQ/csharp/publish/obj/Debug/netcoreapp2.2/publish.AssemblyInfo.cs
+/Users/venemarcos/Projects/zeroMQ/csharp/publish/obj/Debug/netcoreapp2.2/publish.dll
+/Users/venemarcos/Projects/zeroMQ/csharp/publish/obj/Debug/netcoreapp2.2/publish.pdb
